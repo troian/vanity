@@ -1,0 +1,20 @@
+{
+  "domain": "pkg.troian.dev",
+  "index": true,
+  "repositories": [
+    {
+      "prefix": "vlmq",
+      "type": "git",
+      "main": true,
+      "url": "https://github.com/VolantMQ/volantmq",
+      "source": {
+        "home": "https://github.com/VolantMQ/volantmq",
+        "dir": "https://github.com/VolantMQ/volantmq/tree/v2{/dir}",
+        "file": "https://github.com/VolantMQ/volantmq/blob/v2{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/VolantMQ/volantmq"
+      }
+    }
+  ]
+}
